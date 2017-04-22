@@ -1,0 +1,5 @@
+# Dir with compiled sources
+target/
+
+# Compiled class files
+*.class
