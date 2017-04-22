@@ -1,5 +1,4 @@
-# Dir with compiled sources
+# Java target dir
 target/
-
 # Compiled class files
 *.class
